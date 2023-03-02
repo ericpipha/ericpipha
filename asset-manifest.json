@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.062a0fbd.css",
+    "main.css": "/static/css/main.841c2af3.css",
     "main.js": "/static/js/main.cd6e356d.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
-    "static/media/galaxy_banner.png": "/static/media/galaxy_banner.1a0bd95f194e6442879f.png",
     "static/media/nottingham_icon.png": "/static/media/nottingham_icon.2f0378e9d835a20acd54.png",
     "static/media/motivic_seminar_icon.png": "/static/media/motivic_seminar_icon.be03b0ef0eb3c0b96aed.png",
     "index.html": "/index.html",
-    "main.062a0fbd.css.map": "/static/css/main.062a0fbd.css.map",
+    "main.841c2af3.css.map": "/static/css/main.841c2af3.css.map",
     "main.cd6e356d.js.map": "/static/js/main.cd6e356d.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.062a0fbd.css",
+    "static/css/main.841c2af3.css",
     "static/js/main.cd6e356d.js"
   ]
 }
