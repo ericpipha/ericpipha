@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c999a3b8.css",
+    "main.css": "/static/css/main.cb5f1dc3.css",
     "main.js": "/static/js/main.e5cc5d46.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
@@ -8,12 +8,12 @@
     "static/media/motivic_seminar_icon.png": "/static/media/motivic_seminar_icon.be03b0ef0eb3c0b96aed.png",
     "static/media/jncf2.png": "/static/media/jncf2.709c3217f705fc82da51.png",
     "index.html": "/index.html",
-    "main.c999a3b8.css.map": "/static/css/main.c999a3b8.css.map",
+    "main.cb5f1dc3.css.map": "/static/css/main.cb5f1dc3.css.map",
     "main.e5cc5d46.js.map": "/static/js/main.e5cc5d46.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c999a3b8.css",
+    "static/css/main.cb5f1dc3.css",
     "static/js/main.e5cc5d46.js"
   ]
 }
