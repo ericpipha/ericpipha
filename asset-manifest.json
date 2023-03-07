@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c999a3b8.css",
-    "main.js": "/static/js/main.d01e4161.js",
+    "main.js": "/static/js/main.bcc5317c.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
     "static/media/nottingham_icon.png": "/static/media/nottingham_icon.2f0378e9d835a20acd54.png",
     "static/media/motivic_seminar_icon.png": "/static/media/motivic_seminar_icon.be03b0ef0eb3c0b96aed.png",
+    "static/media/jncf.png": "/static/media/jncf.709c3217f705fc82da51.png",
     "index.html": "/index.html",
     "main.c999a3b8.css.map": "/static/css/main.c999a3b8.css.map",
-    "main.d01e4161.js.map": "/static/js/main.d01e4161.js.map",
+    "main.bcc5317c.js.map": "/static/js/main.bcc5317c.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c999a3b8.css",
-    "static/js/main.d01e4161.js"
+    "static/js/main.bcc5317c.js"
   ]
 }
