@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb5f1dc3.css",
-    "main.js": "/static/js/main.66261b03.js",
+    "main.js": "/static/js/main.9d05d978.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
     "static/media/nottingham_icon.png": "/static/media/nottingham_icon.2f0378e9d835a20acd54.png",
@@ -11,11 +11,11 @@
     "static/media/angers.png": "/static/media/angers.b72d9183eff15c7d3eb7.png",
     "index.html": "/index.html",
     "main.cb5f1dc3.css.map": "/static/css/main.cb5f1dc3.css.map",
-    "main.66261b03.js.map": "/static/js/main.66261b03.js.map",
+    "main.9d05d978.js.map": "/static/js/main.9d05d978.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5f1dc3.css",
-    "static/js/main.66261b03.js"
+    "static/js/main.9d05d978.js"
   ]
 }
