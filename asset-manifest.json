@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.7b763939.css",
-    "main.js": "/static/js/main.026f8b0d.js",
+    "main.js": "/static/js/main.13d91d93.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
     "static/media/nottingham_icon.png": "/static/media/nottingham_icon.2f0378e9d835a20acd54.png",
+    "static/media/critical_events.png": "/static/media/critical_events.023fb3b1daa67ce45cc7.png",
     "static/media/motivic_seminar_icon.png": "/static/media/motivic_seminar_icon.be03b0ef0eb3c0b96aed.png",
     "static/media/lefschetz_family.png": "/static/media/lefschetz_family.ab688291766bad6ab111.png",
     "static/media/tardigrade.png": "/static/media/tardigrade.4a69d4fe3226df599046.png",
@@ -13,11 +14,11 @@
     "static/media/angers.png": "/static/media/angers.b72d9183eff15c7d3eb7.png",
     "index.html": "/index.html",
     "main.7b763939.css.map": "/static/css/main.7b763939.css.map",
-    "main.026f8b0d.js.map": "/static/js/main.026f8b0d.js.map",
+    "main.13d91d93.js.map": "/static/js/main.13d91d93.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b763939.css",
-    "static/js/main.026f8b0d.js"
+    "static/js/main.13d91d93.js"
   ]
 }
