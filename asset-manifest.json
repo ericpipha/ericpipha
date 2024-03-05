@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1e9a3a7b.css",
-    "main.js": "/static/js/main.1abd9943.js",
+    "main.js": "/static/js/main.428dcba8.js",
     "static/js/961.165022ae.chunk.js": "/static/js/961.165022ae.chunk.js",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
     "static/media/CAP23.png": "/static/media/CAP23.30e3a35f35703858a760.png",
@@ -16,11 +16,11 @@
     "static/media/angers.png": "/static/media/angers.b72d9183eff15c7d3eb7.png",
     "index.html": "/index.html",
     "main.1e9a3a7b.css.map": "/static/css/main.1e9a3a7b.css.map",
-    "main.1abd9943.js.map": "/static/js/main.1abd9943.js.map",
+    "main.428dcba8.js.map": "/static/js/main.428dcba8.js.map",
     "961.165022ae.chunk.js.map": "/static/js/961.165022ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e9a3a7b.css",
-    "static/js/main.1abd9943.js"
+    "static/js/main.428dcba8.js"
   ]
 }
