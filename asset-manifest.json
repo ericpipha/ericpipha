@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.7ab679fe.css",
-    "main.js": "/static/js/main.d69dc3d5.js",
+    "main.js": "/static/js/main.cf742bf6.js",
     "static/js/961.a45e83ab.chunk.js": "/static/js/961.a45e83ab.chunk.js",
     "static/media/slides_defence_eric_pichon_pharabod.pdf": "/static/media/slides_defence_eric_pichon_pharabod.665d738901ef132766c6.pdf",
     "static/media/phd_thesis_eric_pichon_pharabod.pdf": "/static/media/phd_thesis_eric_pichon_pharabod.6ac0ca9ce2b33002ea0d.pdf",
     "static/media/cosmicweb_icon.png": "/static/media/cosmicweb_icon.cdb82128eff049d93666.png",
-    "static/media/munich.png": "/static/media/munich.220306eb1587be088bed.png",
     "static/media/CAP23.png": "/static/media/CAP23.30e3a35f35703858a760.png",
     "static/media/nottingham_icon.png": "/static/media/nottingham_icon.2f0378e9d835a20acd54.png",
     "static/media/cmsa.png": "/static/media/cmsa.b9548f27a4030c3aa045.png",
@@ -17,14 +16,15 @@
     "static/media/siamag_icon.png": "/static/media/siamag_icon.cd430371c0b4b8bf6062.png",
     "static/media/elliptic_surface.png": "/static/media/elliptic_surface.c979a3c0be0d7f2cb14e.png",
     "static/media/jncf2.png": "/static/media/jncf2.709c3217f705fc82da51.png",
+    "static/media/munich.png": "/static/media/munich.1a4e63384aa2e1332531.png",
     "static/media/angers.png": "/static/media/angers.b72d9183eff15c7d3eb7.png",
     "index.html": "/index.html",
     "main.7ab679fe.css.map": "/static/css/main.7ab679fe.css.map",
-    "main.d69dc3d5.js.map": "/static/js/main.d69dc3d5.js.map",
+    "main.cf742bf6.js.map": "/static/js/main.cf742bf6.js.map",
     "961.a45e83ab.chunk.js.map": "/static/js/961.a45e83ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ab679fe.css",
-    "static/js/main.d69dc3d5.js"
+    "static/js/main.cf742bf6.js"
   ]
 }
