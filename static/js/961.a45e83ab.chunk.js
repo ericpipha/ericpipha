@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpage=self.webpackChunkwebpage||[]).push([[961],{961:(e,a,r)=>{r.r(a),r.d(a,{ContactMeHref:()=>c,default:()=>h});r(791);var i=r(184);const c=e=>(0,i.jsx)("a",{href:"mailto:eric.pichon-pharabod@inria.fr",children:"eric.pichon-pharabod@inria.fr"}),h=c}}]);
+//# sourceMappingURL=961.a45e83ab.chunk.js.map
