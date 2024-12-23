@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7ab679fe.css",
-    "main.js": "/static/js/main.351d5809.js",
+    "main.js": "/static/js/main.83e3f24c.js",
     "static/js/961.210f6c8e.chunk.js": "/static/js/961.210f6c8e.chunk.js",
     "static/media/slides_defence_eric_pichon_pharabod.pdf": "/static/media/slides_defence_eric_pichon_pharabod.665d738901ef132766c6.pdf",
     "static/media/phd_thesis_eric_pichon_pharabod.pdf": "/static/media/phd_thesis_eric_pichon_pharabod.1c6bf6d95c1e376dd241.pdf",
@@ -15,6 +15,7 @@
     "static/media/lefschetz_family.png": "/static/media/lefschetz_family.ab688291766bad6ab111.png",
     "static/media/tardigrade.png": "/static/media/tardigrade.4a69d4fe3226df599046.png",
     "static/media/siamag_icon.png": "/static/media/siamag_icon.cd430371c0b4b8bf6062.png",
+    "static/media/mathexp.png": "/static/media/mathexp.f186ed783e38f81f798f.png",
     "static/media/elliptic_surface.png": "/static/media/elliptic_surface.c979a3c0be0d7f2cb14e.png",
     "static/media/jncf2.png": "/static/media/jncf2.709c3217f705fc82da51.png",
     "static/media/munich.png": "/static/media/munich.1a4e63384aa2e1332531.png",
@@ -22,11 +23,11 @@
     "static/media/mpimis.png": "/static/media/mpimis.0cc968c6916b7c5c825c.png",
     "index.html": "/index.html",
     "main.7ab679fe.css.map": "/static/css/main.7ab679fe.css.map",
-    "main.351d5809.js.map": "/static/js/main.351d5809.js.map",
+    "main.83e3f24c.js.map": "/static/js/main.83e3f24c.js.map",
     "961.210f6c8e.chunk.js.map": "/static/js/961.210f6c8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ab679fe.css",
-    "static/js/main.351d5809.js"
+    "static/js/main.83e3f24c.js"
   ]
 }
